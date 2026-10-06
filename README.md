@@ -48,32 +48,23 @@ I'm a final-year **Artificial Intelligence student at MUST** focused on building
 
 ## 🚀 Featured Projects
 
-### 🤖 Team Organization Platform (TOP)
-AI-powered team collaboration platform combining project management with intelligent agents.
-- Multi-agent architecture for **project assistance, coding, testing, research, documentation, and task support**
-- AI backend built with **Python + FastAPI**
-- Project data and authentication with **Supabase/PostgreSQL**
-- Web application built with **Next.js**
-- LLM integration, project-aware context, and RAG-oriented workflows
+### 📊 [End-to-End Student Lifestyle Analytics](https://github.com/abdulr2005/End-to-End-Student-Lifestyle-Analytics)
+End-to-end data science project using machine learning and analytics to study student lifestyle patterns and depression risk across **100K records**.
 
-### ⚡ Smart Energy Forecasting
-Deep-learning system for forecasting energy consumption from large-scale time-series data.
-- Worked with a dataset containing **2M+ observations**
-- Built and evaluated **LSTM-based forecasting models**
-- Used MAE, RMSE, and R² for model evaluation
-- Developed an interactive application for model predictions
+### ⚡ [Smart Energy Analytics](https://github.com/abdulr2005/smart-energy-analytics)
+Deep-learning and time-series project for analyzing and forecasting energy consumption using large-scale sequential data.
 
-### 🔍 Image Forensics & Computer Vision
-Exploring AI methods for image manipulation detection and pixel-level forgery localization.
-- Computer Vision and deep-learning workflows
-- Forensic feature maps and image preprocessing
-- Focus on localization and explainable visual analysis
+### ⛏️ [SMART CAVE MINING SYSTEM](https://github.com/abdulr2005/SMART-CAVE-MINING-SYSTEM)
+Python-based intelligent system project focused on applying AI concepts to a smart mining environment.
 
-### 🧑‍💻 AI Career Coach
-AI/ML application for analyzing candidate skills and career requirements.
-- **FastAPI** backend and interactive application
-- Skill-gap and career-match analysis
-- Designed as an end-to-end AI application rather than a standalone notebook
+### 👁️ [Baseera – A Vision to Save Lives](https://github.com/abdulr2005/-Baseera-A-Vision-to-Save-Lives)
+AI-focused public-safety project exploring data-driven approaches for safer environments and intelligent decision support.
+
+### 📉 [Customer Churn Prediction – 1M](https://github.com/abdulr2005/customer-churn-prediction-1M)
+Large-scale machine-learning project for customer churn prediction using a dataset of up to **1 million records**.
+
+### 🏠 [Egypt Real Estate Price Prediction & Market Analysis](https://github.com/abdulr2005/Egypt-Real-Estate-Price-Prediction-Market-Analysis)
+Regression and market-analysis project focused on understanding and predicting real-estate prices in Egypt.
 
 ## 📊 GitHub Stats
 
